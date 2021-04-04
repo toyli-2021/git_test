@@ -7,3 +7,10 @@ int main()
 	return 0;:
 }
 
+int second_rebase()
+{
+	int base = 0;
+	while(0)
+	{cout <<"rebase"<<endl;}
+}
+
